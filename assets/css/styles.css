@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(180, 168, 153);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+}
+
+
+
